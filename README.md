@@ -60,28 +60,31 @@
 </div>
 
 <div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=cayoguzansky&show_icons=true&count_private=true&rank_icon=github&theme=github_dark&font=Iosevka&include_all_commits=true&hide_border=true"
-  />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cayoguzansky&layout=compact&font=Iosevka&langs_count=16&theme=github_dark&hide_border=true"
-  />
-  <br>
-  <br>
-  <br>
-  <br>
+  
   <img
     height=154
     align="center"
     alt="Streak"
     src="https://github-readme-streak-stats.herokuapp.com?user=cayoguzansky&theme=github-dark-blue&card_width=885&hide_border=true"
   />
+  
+  <br>
+
+  <p align="center">
+    <img
+      height=165
+      align="center"
+      alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api/?username=cayoguzansky&show_icons=true&count_private=true&rank_icon=github&theme=github_dark&font=Iosevka&include_all_commits=true&hide_border=true"
+    />
+    <img
+      height=165
+      align="center"
+      alt="Top Language"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cayoguzansky&layout=compact&font=Iosevka&langs_count=16&theme=github_dark&hide_border=true"
+    />
+  </p>
+  
   </div>
 
 <div align="center" style="display: inline_block"><br>
